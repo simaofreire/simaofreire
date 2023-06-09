@@ -1,6 +1,6 @@
 <h1 align="left">Hi, i'm Simão</h1>
 
-<img align="right" src="https://github.com/simaofreire/simaofreire/blob/main/undraw_programming_2svr.svg" width="370"/>
+<img align="right" src="https://github.com/simaofreire/simaofreire/assets/51380943/9fa136cb-6a36-4c8c-857d-23f12eabef8f" width="370"/>
 
 <br><br>
 
@@ -23,9 +23,9 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 <br><br>
 
@@ -41,8 +41,8 @@
 ## 👨🏽‍💻 &nbsp;Social Links
 
 <a target="_blank" href="https://www.linkedin.com/in/simaofreire/">
-  <img align="left" alt="Linkedin" width="40px" src="https://github.com/simaofreire/simaofreire/blob/main/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="40px" src="https://github.com/simaofreire/simaofreire/assets/51380943/ebc24e5f-4945-434f-b54e-e2d6090b577c" />
 </a>
 <a target="_blank" href="mailto:simaofreire@live.com">
-  <img align="left" alt="Gmail" width="40px" src="https://github.com/simaofreire/simaofreire/blob/main/gmail.svg" />
+  <img align="left" alt="Gmail" width="40px" src="https://github.com/simaofreire/simaofreire/assets/51380943/e4e995a4-1ddc-48f6-844a-8ef1b4e31077" />
 </a>
