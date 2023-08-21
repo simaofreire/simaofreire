@@ -42,7 +42,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/simaofreire/)
 <a target="_blank" href="mailto:simaofreire@live.com">
-  <img align="left" alt="Gmail" width="40px" src="https://github.com/simaofreire/simaofreire/assets/51380943/e4e995a4-1ddc-48f6-844a-8ef1b4e31077" />
+  
 </a>
 
 
