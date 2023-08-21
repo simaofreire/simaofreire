@@ -41,10 +41,10 @@
 ## 👨🏽‍💻 &nbsp;Social Links
 
 <a target="_blank" href="https://www.linkedin.com/in/simaofreire/">
-  <img align="left" alt="Linkedin" width="40px" src="https://github.com/simaofreire/simaofreire/assets/51380943/ebc24e5f-4945-434f-b54e-e2d6090b577c" />
+  <img align="left" alt="Linkedin" width="40px" src="https://github.com/simaofreire/simaofreire/assets/51380943/ebc24e5f-4945-434f-b54e-e2d6090b577c" href="https://www.linkedin.com/in/simaofreire/"/>
 </a>
 <a target="_blank" href="mailto:simaofreire@live.com">
-  <img align="left" alt="Gmail" width="40px" src="https://github.com/simaofreire/simaofreire/assets/51380943/e4e995a4-1ddc-48f6-844a-8ef1b4e31077" />
+  <img align="left" alt="Gmail" width="40px" src="https://github.com/simaofreire/simaofreire/assets/51380943/e4e995a4-1ddc-48f6-844a-8ef1b4e31077" href="mailto:simaofreire@live.com"/>
 </a>
 
 
