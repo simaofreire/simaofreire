@@ -40,9 +40,6 @@
 
 ## 👨🏽‍💻 &nbsp;Social Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/simaofreire/)
-<a target="_blank" href="mailto:simaofreire@live.com">
-  
-</a>
-
+![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/simaofreire/)
+![Email](https://github.com/simaofreire/simaofreire/assets/51380943/8cfa1585-76d5-473f-a308-1593cca81998)(mailto:simaofreire@live.com)
 
