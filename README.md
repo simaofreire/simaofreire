@@ -6,7 +6,7 @@
 
 - 🔥 Software Engineer | Front-end developer
 
-- 🔭 I’m currently working at [incentivar](https://github.com/incentivar-io)
+- 🔭 I’m currently working at [Radix](https://www.linkedin.com/company/radix-brasil/)
 
 <br><br>
 
