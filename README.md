@@ -1,10 +1,10 @@
-<h1 align="left">Hi, i'm Simão</h1>
+<h1 align="left">Hey! it's me, Simão</h1>
 
 <img align="right" src="https://github.com/simaofreire/simaofreire/assets/51380943/9fa136cb-6a36-4c8c-857d-23f12eabef8f" width="370"/>
 
 <br><br>
 
-- 🔥 Software Engineer | Front-end developer
+- 🔥 Full-stack Software Developer | Focus on Front-end
 
 - 🔭 I’m currently working at [Radix](https://www.linkedin.com/company/radix-brasil/)
 
