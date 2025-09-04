@@ -4,7 +4,7 @@
 
 <br><br>
 
-- 🔥 Full-stack Software Developer
+- 🔥 Fullstack Software Developer
 
 - 🔭 I’m currently working at [Radix](https://www.linkedin.com/company/radix-brasil/)
 
