@@ -6,7 +6,7 @@
 
 - 🔥 Fullstack Software Developer
 
-- 🔭 I’m currently working at [Radix](https://www.linkedin.com/company/radix-brasil/)
+<!-- - 🔭 I’m currently working at [Radix](https://www.linkedin.com/company/radix-brasil/) -->
 
 <br><br>
 
